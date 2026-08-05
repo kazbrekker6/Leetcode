@@ -1,5 +1,3 @@
-import java.util.*;
-
 public class Solution {
     public List<Integer> remainingMethods(int n, int k, int[][] invocations) {
         List<List<Integer>> graph = new ArrayList<>();
