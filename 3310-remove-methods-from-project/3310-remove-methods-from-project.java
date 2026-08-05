@@ -1,4 +1,4 @@
-public class Solution {
+class Solution {
     public List<Integer> remainingMethods(int n, int k, int[][] invocations) {
         List<List<Integer>> graph = new ArrayList<>();
         for (int i = 0; i < n; i++) {
