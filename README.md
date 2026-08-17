@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/kazbrekker6/Leetcode/tree/master/0486-predict-the-winner) |
+| [0496-next-greater-element-i](https://github.com/kazbrekker6/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kazbrekker6/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0746-min-cost-climbing-stairs](https://github.com/kazbrekker6/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/kazbrekker6/Leetcode/tree/master/0877-stone-game) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/kazbrekker6/Leetcode/tree/master/0496-next-greater-element-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kazbrekker6/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kazbrekker6/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kazbrekker6/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -197,4 +199,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/kazbrekker6/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/kazbrekker6/Leetcode/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/kazbrekker6/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
