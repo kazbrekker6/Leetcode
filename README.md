@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/kazbrekker6/Leetcode/tree/master/0115-distinct-subsequences) |
 | [1927-sum-game](https://github.com/kazbrekker6/Leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/kazbrekker6/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kazbrekker6/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kazbrekker6/Leetcode/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/kazbrekker6/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/kazbrekker6/Leetcode/tree/master/0486-predict-the-winner) |
 | [0746-min-cost-climbing-stairs](https://github.com/kazbrekker6/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/kazbrekker6/Leetcode/tree/master/0877-stone-game) |
