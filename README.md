@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/kazbrekker6/Leetcode/tree/master/0204-count-primes) |
 | [0486-predict-the-winner](https://github.com/kazbrekker6/Leetcode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/kazbrekker6/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kazbrekker6/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kazbrekker6/Leetcode/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/kazbrekker6/Leetcode/tree/master/0204-count-primes) |
 | [0486-predict-the-winner](https://github.com/kazbrekker6/Leetcode/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/kazbrekker6/Leetcode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kazbrekker6/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/kazbrekker6/Leetcode/tree/master/0204-count-primes) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kazbrekker6/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kazbrekker6/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/kazbrekker6/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/kazbrekker6/Leetcode/tree/master/0204-count-primes) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kazbrekker6/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kazbrekker6/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Two Pointers
@@ -367,4 +371,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kazbrekker6/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kazbrekker6/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kazbrekker6/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/kazbrekker6/Leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/kazbrekker6/Leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/kazbrekker6/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
